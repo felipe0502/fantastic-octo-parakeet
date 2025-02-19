@@ -67,6 +67,14 @@
             "discoveredTimestamp": 1739943194581,
             "caughtTimestamp": 1739943194581
           }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739945191589,
+            "caughtTimestamp": 1739945191589
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -77,24 +85,25 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 4,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "dragon": 2,
       "ground": 1,
-      "ghost": 1
+      "ghost": 1,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wooloo": 1,
       "cobblemon:taillow": 1,
-      "cobblemon:mareep": 1,
+      "cobblemon:mareep": 2,
       "cobblemon:cottonee": 1
     },
     "aspectsCollected": {}

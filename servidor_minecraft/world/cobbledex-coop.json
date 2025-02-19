@@ -96,6 +96,70 @@
         "discoveredTimestamp": 1739943267232,
         "caughtTimestamp": 1739943267232
       }
+    },
+    "lickitung": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739943919482
+      }
+    },
+    "mareep": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739943921503
+      }
+    },
+    "alcremie": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739944241548
+      }
+    },
+    "patrat": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739944315958
+      }
+    },
+    "magnemite": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739944840312
+      }
+    },
+    "meowth": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739944847684
+      }
+    },
+    "flaaffy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739945191589,
+        "caughtTimestamp": 1739945191589
+      }
+    },
+    "articuno": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739945228628
+      }
+    },
+    "snorunt": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739945237180
+      }
     }
   }
 }

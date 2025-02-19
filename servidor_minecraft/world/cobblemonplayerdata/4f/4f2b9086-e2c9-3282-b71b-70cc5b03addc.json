@@ -53,6 +53,69 @@
             "discoveredTimestamp": 1739943267232,
             "caughtTimestamp": 1739943267232
           }
+        },
+        "bouffalant": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739943900253
+          }
+        },
+        "lickitung": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739943919482
+          }
+        },
+        "mareep": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739943921502
+          }
+        },
+        "alcremie": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739944241548
+          }
+        },
+        "patrat": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739944315957
+          }
+        },
+        "magnemite": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739944840311
+          }
+        },
+        "meowth": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739944847683
+          }
+        },
+        "articuno": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739945228628
+          }
+        },
+        "snorunt": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739945237179
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -66,10 +129,10 @@
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 4,
+    "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -78,7 +141,10 @@
       "fairy": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:sentret": 1
+      "cobblemon:sentret": 1,
+      "cobblemon:patrat": 1,
+      "cobblemon:lillipup": 1,
+      "cobblemon:bunnelby": 1
     },
     "aspectsCollected": {}
   }
