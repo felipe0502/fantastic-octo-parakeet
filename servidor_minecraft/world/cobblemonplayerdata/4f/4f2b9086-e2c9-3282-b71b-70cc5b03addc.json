@@ -148,6 +148,22 @@
             "discoveredTimestamp": 1739994977615,
             "caughtTimestamp": 1739994977615
           }
+        },
+        "gastly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739995822785,
+            "caughtTimestamp": 1739995822785
+          }
+        },
+        "mawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739995855836,
+            "caughtTimestamp": 1739995855836
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -158,7 +174,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
     "totalBattleVictoryCount": 8,
@@ -170,8 +186,11 @@
     "totalTypeCaptureCounts": {
       "fighting": 1,
       "psychic": 2,
-      "fairy": 1,
-      "electric": 1
+      "fairy": 2,
+      "electric": 1,
+      "ghost": 1,
+      "poison": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:sentret": 1,
