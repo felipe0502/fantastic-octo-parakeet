@@ -2097,3 +2097,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [19Feb2025 20:15:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Suit Up]
 [19Feb2025 20:22:29.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Hard Work and Dedication]
 [19Feb2025 20:23:45.090] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:25:22.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has reached the goal [Boulder Badge]
+[19Feb2025 20:25:22.286] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[19Feb2025 20:28:58.627] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-223, y=65, z=1165}
+[19Feb2025 20:29:09.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Doing my Part]
+[19Feb2025 20:29:09.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=north,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=-225, y=72, z=835}
+[19Feb2025 20:31:36.857] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:32:39.662] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:33:59.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uzumaki0502: Teleported Uzumaki0502 to 204.500000, 72.500000, 227.500000]

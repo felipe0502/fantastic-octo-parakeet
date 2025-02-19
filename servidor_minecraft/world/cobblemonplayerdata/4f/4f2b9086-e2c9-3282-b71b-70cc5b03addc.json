@@ -164,6 +164,22 @@
             "discoveredTimestamp": 1739995855836,
             "caughtTimestamp": 1739995855836
           }
+        },
+        "frogadier": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739996760765,
+            "caughtTimestamp": 1739996760765
+          }
+        },
+        "kirlia": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739996772945,
+            "caughtTimestamp": 1739996772945
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -176,11 +192,11 @@
   "advancementData": {
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 8,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 7,
-    "totalPvNBattleVictoryCount": 1,
+    "totalPvNBattleVictoryCount": 2,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {

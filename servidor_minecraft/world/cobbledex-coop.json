@@ -244,6 +244,22 @@
         "discoveredTimestamp": 1739996549365,
         "caughtTimestamp": 1739996549365
       }
+    },
+    "frogadier": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996760765,
+        "caughtTimestamp": 1739996760765
+      }
+    },
+    "kirlia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996772946,
+        "caughtTimestamp": 1739996772946
+      }
     }
   }
 }
