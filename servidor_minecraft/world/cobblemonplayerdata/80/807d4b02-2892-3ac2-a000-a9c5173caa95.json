@@ -75,6 +75,41 @@
             "discoveredTimestamp": 1739945191589,
             "caughtTimestamp": 1739945191589
           }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992216635
+          }
+        },
+        "mudbray": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992233017
+          }
+        },
+        "dachsbun": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992254714
+          }
+        },
+        "sentret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992266765
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992276517
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -88,9 +123,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 5,
+    "totalBattleVictoryCount": 6,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 6,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -104,7 +139,8 @@
       "cobblemon:wooloo": 1,
       "cobblemon:taillow": 1,
       "cobblemon:mareep": 2,
-      "cobblemon:cottonee": 1
+      "cobblemon:cottonee": 1,
+      "cobblemon:sentret": 1
     },
     "aspectsCollected": {}
   }

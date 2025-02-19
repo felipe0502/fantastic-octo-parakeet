@@ -71,8 +71,9 @@
         "mareep": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1739943921502
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739943921502,
+            "caughtTimestamp": 1739993981793
           }
         },
         "alcremie": {
@@ -116,6 +117,37 @@
             "status": "SEEN",
             "discoveredTimestamp": 1739945237179
           }
+        },
+        "zigzagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1739992900197
+          }
+        },
+        "flaaffy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739994020816,
+            "caughtTimestamp": 1739994020816
+          }
+        },
+        "abra": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739994973084,
+            "caughtTimestamp": 1739994973084
+          }
+        },
+        "kadabra": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739994977615,
+            "caughtTimestamp": 1739994977615
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -126,25 +158,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 5,
+    "totalEvolvedCount": 2,
+    "totalBattleVictoryCount": 8,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "fighting": 1,
-      "psychic": 1,
-      "fairy": 1
+      "psychic": 2,
+      "fairy": 1,
+      "electric": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:sentret": 1,
       "cobblemon:patrat": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:bunnelby": 1
+      "cobblemon:bunnelby": 1,
+      "cobblemon:wooloo": 1,
+      "cobblemon:stonjourner": 1
     },
     "aspectsCollected": {}
   }

@@ -107,8 +107,9 @@
     "mareep": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1739943921503
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739943921503,
+        "caughtTimestamp": 1739993981794
       }
     },
     "alcremie": {
@@ -159,6 +160,57 @@
         "isShiny": false,
         "status": "SEEN",
         "discoveredTimestamp": 1739945237180
+      }
+    },
+    "growlithe": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739992216636
+      }
+    },
+    "mudbray": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739992233018
+      }
+    },
+    "dachsbun": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739992254714
+      }
+    },
+    "furret": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739992276517
+      }
+    },
+    "zigzagoon": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1739992900197
+      }
+    },
+    "abra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739994973084,
+        "caughtTimestamp": 1739994973084
+      }
+    },
+    "kadabra": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739994977615,
+        "caughtTimestamp": 1739994977615
       }
     }
   }
