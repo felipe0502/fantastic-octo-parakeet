@@ -165,8 +165,9 @@
     "growlithe": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1739992216636
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739992216636,
+        "caughtTimestamp": 1739997892536
       }
     },
     "mudbray": {

@@ -79,8 +79,9 @@
         "growlithe": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1739992216635
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739992216635,
+            "caughtTimestamp": 1739997892535
           }
         },
         "mudbray": {
@@ -136,13 +137,13 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 1,
-    "totalBattleVictoryCount": 7,
+    "totalBattleVictoryCount": 9,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 8,
+    "totalPvNBattleVictoryCount": 1,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -150,7 +151,8 @@
       "ground": 1,
       "ghost": 1,
       "electric": 1,
-      "water": 1
+      "water": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wooloo": 1,

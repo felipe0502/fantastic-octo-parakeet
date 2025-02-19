@@ -11,8 +11,11 @@
       "minecraft:beach": "2025-02-19 04:09:13 +0000",
       "minecraft:river": "2025-02-19 04:46:56 +0000",
       "minecraft:snowy_plains": "2025-02-19 04:45:00 +0000",
+      "minecraft:cold_ocean": "2025-02-19 20:31:19 +0000",
       "minecraft:forest": "2025-02-19 04:46:15 +0000",
       "minecraft:ice_spikes": "2025-02-19 06:07:19 +0000",
+      "minecraft:frozen_ocean": "2025-02-19 20:41:25 +0000",
+      "minecraft:snowy_beach": "2025-02-19 20:41:21 +0000",
       "minecraft:plains": "2025-02-19 04:25:13 +0000"
     },
     "done": false
@@ -887,9 +890,12 @@
       "minecraft:skeleton": "2025-02-19 05:51:40 +0000",
       "minecraft:spider": "2025-02-19 06:11:54 +0000",
       "minecraft:creeper": "2025-02-19 06:12:28 +0000",
+      "minecraft:slime": "2025-02-19 20:29:32 +0000",
       "minecraft:husk": "2025-02-19 05:55:15 +0000",
       "minecraft:cave_spider": "2025-02-19 20:05:42 +0000",
-      "minecraft:zombie": "2025-02-19 06:11:46 +0000"
+      "minecraft:enderman": "2025-02-19 20:37:43 +0000",
+      "minecraft:zombie": "2025-02-19 06:11:46 +0000",
+      "minecraft:zombie_villager": "2025-02-19 20:39:41 +0000"
     },
     "done": false
   },
@@ -1868,9 +1874,21 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-02-19 20:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/flame_orb": {
+    "criteria": {
+      "has_orb": "2025-02-19 20:37:45 +0000"
     },
     "done": true
   },
@@ -1898,6 +1916,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_oran_berry": "2025-02-19 20:34:46 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-02-19 19:59:07 +0000"
@@ -1919,6 +1943,12 @@
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2025-02-19 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-19 20:46:24 +0000"
     },
     "done": true
   },
@@ -1970,6 +2000,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 20:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-19 20:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-19 20:03:40 +0000"
@@ -2003,6 +2045,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-19 20:46:17 +0000"
     },
     "done": true
   },
@@ -2078,6 +2126,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-19 20:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
@@ -2102,15 +2156,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-19 20:48:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/held/toxic_orb": {
+    "criteria": {
+      "has_orb": "2025-02-19 20:37:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-19 20:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 20:29:36 +0000"
     },
     "done": true
   },
@@ -2123,6 +2195,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-02-19 19:59:07 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-02-19 20:34:46 +0000"
     },
     "done": true
   },
@@ -2216,6 +2294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 20:29:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
@@ -2282,6 +2366,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-02-19 20:48:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-19 20:03:40 +0000"
@@ -2306,6 +2396,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 20:29:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-02-19 19:59:07 +0000"
@@ -2321,6 +2417,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:51:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-02-19 20:29:36 +0000"
     },
     "done": true
   },
@@ -2396,6 +2498,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/life_orb": {
+    "criteria": {
+      "has_orb": "2025-02-19 20:37:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-02-19 19:59:07 +0000"
@@ -2405,6 +2513,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-02-19 20:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-19 20:46:22 +0000"
     },
     "done": true
   },

@@ -2105,3 +2105,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [19Feb2025 20:31:36.857] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
 [19Feb2025 20:32:39.662] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
 [19Feb2025 20:33:59.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Uzumaki0502: Teleported Uzumaki0502 to 204.500000, 72.500000, 227.500000]
+[19Feb2025 20:34:46.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [Very Berry]
+[19Feb2025 20:39:11.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/36106, l='ServerLevel[world]', x=-217.50, y=64.92, z=1316.70] died, message: 'Leatherworker was slain by Zombie'
+[19Feb2025 20:39:28.233] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/35924, l='ServerLevel[world]', x=-200.70, y=63.00, z=1251.94] died, message: 'Fletcher was slain by Zombie'
+[19Feb2025 20:39:32.050] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:40:03.814] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:40:13.034] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[19Feb2025 20:42:23.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TrainerMob['Leader Brock'/37294, l='ServerLevel[world]', x=-267.70, y=65.00, z=1358.32] died: Leader Brock was slain by Flancito0_
+[19Feb2025 20:42:27.413] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:42:34.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TrainerMob['Player May'/38698, l='ServerLevel[world]', x=-248.10, y=64.00, z=1338.87] died: Player May was slain by Flancito0_
+[19Feb2025 20:43:21.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TrainerMob['Team Rocket Grunt'/38104, l='ServerLevel[world]', x=-215.70, y=68.00, z=1321.23] died: Team Rocket Grunt was slain by Flancito0_
+[19Feb2025 20:45:29.090] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:45:53.932] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[19Feb2025 20:46:10.030] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 20:48:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [What a Deal!]
+[19Feb2025 20:49:04.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
+[19Feb2025 20:49:04.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game

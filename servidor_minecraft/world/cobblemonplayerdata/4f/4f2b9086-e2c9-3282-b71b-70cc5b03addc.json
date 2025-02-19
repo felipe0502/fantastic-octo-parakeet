@@ -193,10 +193,10 @@
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 9,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
-    "totalPvNBattleVictoryCount": 2,
+    "totalPvWBattleVictoryCount": 8,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -214,7 +214,7 @@
       "cobblemon:lillipup": 1,
       "cobblemon:bunnelby": 1,
       "cobblemon:wooloo": 1,
-      "cobblemon:stonjourner": 1
+      "cobblemon:stonjourner": 2
     },
     "aspectsCollected": {}
   }
