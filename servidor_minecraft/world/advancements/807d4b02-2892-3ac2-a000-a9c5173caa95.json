@@ -17,6 +17,7 @@
       "minecraft:beach": "2025-02-19 05:22:06 +0000",
       "minecraft:river": "2025-02-19 06:12:11 +0000",
       "minecraft:snowy_plains": "2025-02-19 05:44:06 +0000",
+      "minecraft:snowy_taiga": "2025-02-19 21:05:15 +0000",
       "minecraft:ice_spikes": "2025-02-19 06:02:23 +0000",
       "minecraft:snowy_beach": "2025-02-19 20:51:44 +0000",
       "minecraft:plains": "2025-02-19 05:21:37 +0000"
@@ -1434,9 +1435,10 @@
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
       "has_black_apricorn": "2025-02-19 19:07:34 +0000",
-      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000"
+      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000",
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
@@ -1467,6 +1469,7 @@
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
       "has_black_apricorn": "2025-02-19 19:07:34 +0000",
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000",
       "has_yellow_apricorn": "2025-02-19 20:29:07 +0000"
     },
     "done": false
@@ -1498,13 +1501,15 @@
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
       "has_black_apricorn": "2025-02-19 19:07:34 +0000",
-      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000"
+      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000",
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-02-19 19:07:34 +0000"
+      "has_black_apricorn": "2025-02-19 19:07:34 +0000",
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
     },
     "done": false
   },
@@ -2018,6 +2023,12 @@
     },
     "done": true
   },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-02-19 21:11:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-02-19 19:58:05 +0000"
@@ -2035,6 +2046,12 @@
       "has_redstone": "2025-02-19 19:58:05 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
@@ -2063,6 +2080,12 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-02-19 20:26:56 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-02-19 21:07:04 +0000"
     },
     "done": true
   },
@@ -2204,6 +2227,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:45:55 +0000"
@@ -2212,6 +2241,7 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000",
       "has_yellow_apricorn": "2025-02-19 20:29:07 +0000"
     },
     "done": false
@@ -2272,7 +2302,14 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
-      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000"
+      "has_yellow_apricorn": "2025-02-19 20:29:07 +0000",
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
     },
     "done": false
   },
@@ -2336,6 +2373,12 @@
     },
     "done": false
   },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-02-19 19:58:05 +0000"
@@ -2372,6 +2415,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-02-19 20:26:41 +0000"
@@ -2402,9 +2451,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/misc/cage_trap": {
     "criteria": {
       "has_redstone": "2025-02-19 19:58:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2025-02-19 21:05:24 +0000"
     },
     "done": true
   },

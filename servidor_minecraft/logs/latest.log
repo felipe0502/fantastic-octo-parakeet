@@ -2121,3 +2121,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'pamhc2foodcore:honeymuffinite
 [19Feb2025 20:48:09.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 has made the advancement [What a Deal!]
 [19Feb2025 20:49:04.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Uzumaki0502 lost connection: Disconnected
 [19Feb2025 20:49:04.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Uzumaki0502 left the game
+[19Feb2025 21:06:35.507] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[19Feb2025 21:11:03.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Flancito0_ has made the advancement [Full House]
+[19Feb2025 21:11:16.809] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
