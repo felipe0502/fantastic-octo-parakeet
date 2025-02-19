@@ -18,6 +18,7 @@
       "minecraft:river": "2025-02-19 06:12:11 +0000",
       "minecraft:snowy_plains": "2025-02-19 05:44:06 +0000",
       "minecraft:ice_spikes": "2025-02-19 06:02:23 +0000",
+      "minecraft:snowy_beach": "2025-02-19 20:51:44 +0000",
       "minecraft:plains": "2025-02-19 05:21:37 +0000"
     },
     "done": false
@@ -497,6 +498,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-02-19 20:50:53 +0000",
       "cooked_beef": "2025-02-19 19:25:42 +0000",
       "apple": "2025-02-19 05:41:23 +0000",
       "pumpkin_pie": "2025-02-19 05:52:06 +0000",

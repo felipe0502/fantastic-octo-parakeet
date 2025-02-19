@@ -261,6 +261,14 @@
         "discoveredTimestamp": 1739996772946,
         "caughtTimestamp": 1739996772946
       }
+    },
+    "swinub": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739998902331,
+        "caughtTimestamp": 1739998902331
+      }
     }
   }
 }
