@@ -8,9 +8,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-19 04:09:13 +0000",
+      "minecraft:river": "2025-02-19 04:46:56 +0000",
+      "minecraft:snowy_plains": "2025-02-19 04:45:00 +0000",
+      "minecraft:forest": "2025-02-19 04:46:15 +0000",
       "minecraft:plains": "2025-02-19 04:25:13 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-19 04:44:23 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
