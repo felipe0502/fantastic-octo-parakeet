@@ -228,6 +228,22 @@
         "discoveredTimestamp": 1739995855836,
         "caughtTimestamp": 1739995855836
       }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996541887,
+        "caughtTimestamp": 1739996541887
+      }
+    },
+    "gyarados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1739996549365,
+        "caughtTimestamp": 1739996549365
+      }
     }
   }
 }

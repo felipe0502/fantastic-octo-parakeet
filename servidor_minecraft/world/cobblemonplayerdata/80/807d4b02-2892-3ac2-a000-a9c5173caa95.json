@@ -110,6 +110,22 @@
             "status": "SEEN",
             "discoveredTimestamp": 1739992276517
           }
+        },
+        "magikarp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739996541887,
+            "caughtTimestamp": 1739996541887
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1739996549364,
+            "caughtTimestamp": 1739996549364
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -120,12 +136,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 4,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 6,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 6,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -133,7 +149,8 @@
       "dragon": 2,
       "ground": 1,
       "ghost": 1,
-      "electric": 1
+      "electric": 1,
+      "water": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:wooloo": 1,

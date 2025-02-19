@@ -106,6 +106,7 @@
       "dusk_ball": "2025-02-19 06:02:56 +0000",
       "repeat_ball": "2025-02-19 06:02:59 +0000",
       "net_ball": "2025-02-19 06:02:53 +0000",
+      "ultra_ball": "2025-02-19 20:10:43 +0000",
       "master_ball": "2025-02-19 05:32:26 +0000"
     },
     "done": false
@@ -2115,6 +2116,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-19 19:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-19 20:10:41 +0000"
     },
     "done": true
   },
